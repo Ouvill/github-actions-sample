@@ -5,6 +5,9 @@
   "repository": "git@github.com:Ouvill/github-actions-sample.git",
   "author": "Ouvill <contact@ouvill.net>",
   "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
     "jest": "^25.1.0"
   }
